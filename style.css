@@ -20,7 +20,7 @@ html {
     /* sets the default rem value to 10px from 16px */
     font-size: 10px;
     overflow-x: hidden;
-    scroll-behaviour: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -349,4 +349,29 @@ h3 {
     padding-bottom: 8rem;
     align-items: center;
     gap: 5.5rem;
+}
+
+@media screen and (max-width: 1200px) {
+    html {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    html {
+        font-size: 6px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    html {
+        font-size: 4px;
+    }
+    .heading {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        align-items: center;
+        gap: 3.5rem;
+    }
 }

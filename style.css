@@ -20,6 +20,7 @@ html {
     /* sets the default rem value to 10px from 16px */
     font-size: 10px;
     overflow-x: hidden;
+    scroll-behaviour: smooth;
 }
 
 body {

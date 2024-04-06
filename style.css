@@ -301,6 +301,7 @@ h3 {
 
 .lang_icons>img {
     animation: slide 10000ms 1ms infinite alternate-reverse;
+    width: 6rem;
 }
 
 @keyframes slide {
@@ -355,26 +356,17 @@ h3 {
     html {
         font-size: 8px;
     }
-    .lang_icons>img {
-        width: 8rem;
-    }
 }
 
 @media screen and (max-width: 900px) {
     html {
         font-size: 6px;
     }
-    .lang_icons>img {
-        width: 6rem;
-    }
 }
 
 @media screen and (max-width: 650px) {
     html {
         font-size: 4px;
-    }
-    .lang_icons>img {
-        width: 4rem;
     }
     .heading {
         display: flex;

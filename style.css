@@ -355,17 +355,26 @@ h3 {
     html {
         font-size: 8px;
     }
+    img {
+        width: 8rem;
+    }
 }
 
 @media screen and (max-width: 900px) {
     html {
         font-size: 6px;
     }
+    img {
+        width: 6rem;
+    }
 }
 
 @media screen and (max-width: 650px) {
     html {
         font-size: 4px;
+    }
+    img {
+        width: 4rem;
     }
     .heading {
         display: flex;

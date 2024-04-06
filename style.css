@@ -355,7 +355,7 @@ h3 {
     html {
         font-size: 8px;
     }
-    img {
+    .lang_icons>img {
         width: 8rem;
     }
 }
@@ -364,7 +364,7 @@ h3 {
     html {
         font-size: 6px;
     }
-    img {
+    .lang_icons>img {
         width: 6rem;
     }
 }
@@ -373,7 +373,7 @@ h3 {
     html {
         font-size: 4px;
     }
-    img {
+    .lang_icons>img {
         width: 4rem;
     }
     .heading {

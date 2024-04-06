@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **oAuth**
 
-- 👨‍💻 All of my projects are available at <a href="[https://conceal34.github.io/Conceal34/](https://conceal34.github.io/Conceal34/)"> Link </a>
+- 👨‍💻 All of my projects are available at <a href="https://conceal34.github.io/Conceal34/"> Link </a>
 
 - 💬 Ask me about **React, Js, CSS,**
 

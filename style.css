@@ -70,6 +70,7 @@ main {
     display: flex;
     width: 100vw;
     justify-content: end;
+    opacity: 0;
 
     margin-top: 7.5rem;
 }

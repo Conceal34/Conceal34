@@ -344,6 +344,11 @@ h3 {
     gap: 2rem;
 }
 
+.social_icons > a > img {
+    width: 6rem;
+}
+
+
 .end_graphic {
     width: 79rem;
     display: inline-flex;

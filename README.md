@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinner</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">Full-Stack Engineer | Next.js · Node.js · PostgreSQL</h3>
 
-- 🌱 I’m currently learning **oAuth**
+- Learning DevOps — Docker, CI/CD, AWS
 
-- 👨‍💻 All of my projects are available at <a href="https://conceal34.github.io/Conceal34/"> Link </a>
-
-- 💬 Ask me about **React, Js, CSS,**
+- You can Checkout more about me at my <a href="[https://conceal34.github.io/Conceal34/](https://vinner-portfolio.netlify.app/)"> WEBSITE</a>
 
 - 📫 How to reach me **vinnerhooda@gmail.com**
 
@@ -23,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conceal34&show_icons=true&locale=en" alt="conceal34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=conceal34&" alt="conceal34" /></p>
+

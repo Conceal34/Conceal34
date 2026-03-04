@@ -3,7 +3,7 @@
 
 - Learning DevOps — Docker, CI/CD, AWS
 
-- You can Checkout more about me at my <a href="[https://conceal34.github.io/Conceal34/](https://vinner-portfolio.netlify.app/)"> WEBSITE</a>
+- You can Checkout more about me at my <a href="https://vinner-portfolio.netlify.app"> WEBSITE</a>
 
 - 📫 How to reach me **vinnerhooda@gmail.com**
 
@@ -21,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conceal34&show_icons=true&locale=en" alt="conceal34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=conceal34&" alt="conceal34" /></p>
+
 
